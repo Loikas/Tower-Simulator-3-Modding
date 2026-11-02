@@ -1,0 +1,12 @@
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.csproj.AssemblyReference.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.AssemblyInfoInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.AssemblyInfo.cs
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\bin\Release\net46\TS3ModLoader.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\bin\Release\net46\TS3ModLoader.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLoader.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\bin\Release\net46\TS3Modding.API.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\bin\Release\net46\TS3Modding.API.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\obj\Release\net46\TS3ModLo.35024302.Up2Date

@@ -1,0 +1,89 @@
+{
+  "version": 4,
+  "targets": {
+    "net46": {
+      "TS3Modding.API/0.8.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "compile": {
+          "bin/placeholder/TS3Modding.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TS3Modding.API.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TS3Modding.API/0.8.0": {
+      "type": "project",
+      "path": "../TS3Modding.API/TS3Modding.API.csproj",
+      "msbuildProject": "../TS3Modding.API/TS3Modding.API.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net46": [
+      "TS3Modding.API >= 0.8.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "0.6.4",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.FlightStrips\\TS3Modding.FlightStrips.csproj",
+      "projectName": "TS3Modding.FlightStrips",
+      "projectPath": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.FlightStrips\\TS3Modding.FlightStrips.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.FlightStrips\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net46": {
+          "framework": "net46",
+          "targetAlias": "net46",
+          "projectReferences": {
+            "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.API\\TS3Modding.API.csproj": {
+              "projectPath": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.API\\TS3Modding.API.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net46": {
+        "framework": "net46",
+        "targetAlias": "net46",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

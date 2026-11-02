@@ -1,0 +1,10 @@
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\bin\Release\net46\TS3Modding.Effects.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\bin\Release\net46\TS3Modding.Effects.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.csproj.AssemblyReference.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.AssemblyInfoInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.AssemblyInfo.cs
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\obj\Release\net46\TS3Modding.Effects.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Effects\bin\Release\net46\SOUND-CREDITS.txt

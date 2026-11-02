@@ -1,0 +1,9 @@
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\bin\Release\net46\TS3Modding.ExternalBootstrap.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\bin\Release\net46\TS3Modding.ExternalBootstrap.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.csproj.AssemblyReference.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.AssemblyInfoInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.AssemblyInfo.cs
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.ExternalBootstrap\obj\Release\net46\TS3Modding.ExternalBootstrap.pdb
