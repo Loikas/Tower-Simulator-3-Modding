@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework><LangVersion>latest</LangVersion><Version>0.2.5</Version>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <FrameworkPathOverride>C:\Program Files (x86)\Steam\steamapps\common\Tower! Simulator 3\Tower! Simulator 3_Data\Managed</FrameworkPathOverride>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Audio\*.wav" />
+    <None Include="Audio\SOUND-CREDITS.txt" CopyToOutputDirectory="PreserveNewest" TargetPath="SOUND-CREDITS.txt" />
+    <ProjectReference Include="..\TS3Modding.API\TS3Modding.API.csproj"><Private>false</Private></ProjectReference>
+    <Reference Include="BepInEx"><HintPath>..\vendor\BepInEx\BepInEx\core\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>..\vendor\BepInEx\BepInEx\core\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(FrameworkPathOverride)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.ParticleSystemModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.AudioModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.AudioModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="netstandard"><HintPath>$(FrameworkPathOverride)\netstandard.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

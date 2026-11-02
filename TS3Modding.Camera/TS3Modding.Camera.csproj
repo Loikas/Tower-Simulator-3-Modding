@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework><LangVersion>latest</LangVersion><Version>0.2.4</Version>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <FrameworkPathOverride>C:\Program Files (x86)\Steam\steamapps\common\Tower! Simulator 3\Tower! Simulator 3_Data\Managed</FrameworkPathOverride>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\OverlayTheme.cs" Link="UI\OverlayTheme.cs" />
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+    <ProjectReference Include="..\TS3Modding.API\TS3Modding.API.csproj"><Private>false</Private></ProjectReference>
+    <Reference Include="BepInEx"><HintPath>..\vendor\BepInEx\BepInEx\core\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>..\vendor\BepInEx\BepInEx\core\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="netstandard"><HintPath>$(FrameworkPathOverride)\netstandard.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(FrameworkPathOverride)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.InputLegacyModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.InputLegacyModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.IMGUIModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.IMGUIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(FrameworkPathOverride)\UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UIModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.UIModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>
+
+
+
+
+
+
+
