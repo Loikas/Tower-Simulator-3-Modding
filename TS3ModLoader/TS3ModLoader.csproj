@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <GameDir Condition="'$(GameDir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\Tower! Simulator 3</GameDir>
+    <FrameworkPathOverride>$(GameDir)\Tower! Simulator 3_Data\Managed</FrameworkPathOverride>
+    <LangVersion>latest</LangVersion>
+    <AssemblyVersion>0.8.3.0</AssemblyVersion>
+    <Version>0.8.21</Version>
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assets/ModIcons/*.png" />
+    <Reference Include="UnityEngine.ImageConversionModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.ImageConversionModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(FrameworkPathOverride)\UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UIModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.UIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.JSONSerializeModule.dll</HintPath><Private>false</Private></Reference>
+    <ProjectReference Include="..\TS3Modding.API\TS3Modding.API.csproj" />
+    <Reference Include="netstandard"><HintPath>$(GameDir)\Tower! Simulator 3_Data\Managed\netstandard.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx"><HintPath>..\vendor\BepInEx\BepInEx\core\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>..\vendor\BepInEx\BepInEx\core\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(GameDir)\Tower! Simulator 3_Data\Managed\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(GameDir)\Tower! Simulator 3_Data\Managed\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup><Compile Include="..\Shared\DeveloperMode.cs" Link="Preferences\DeveloperMode.cs" /></ItemGroup>
+  <ItemGroup><Compile Include="..\Shared\PluginLifetime.cs" Link="Settings\PluginLifetime.cs" /></ItemGroup>
+</Project>
+
+
+
+
