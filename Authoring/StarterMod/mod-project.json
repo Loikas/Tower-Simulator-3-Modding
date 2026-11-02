@@ -1,0 +1,28 @@
+{
+  "Id": "example.myts3mod",
+  "Name": "Aircraft Observer Example",
+  "Version": "0.1.0",
+  "Author": "Your name",
+  "Summary": "A read-only starter with live settings, optional shortcuts and launcher help.",
+  "Description": "Observe aircraft without changing flight behavior. Includes optional developer logging and an aircraft-count shortcut.",
+  "License": "MIT",
+  "Website": "",
+  "Dependencies": [
+    {
+      "Id": "nl.ts3modding.loader",
+      "MinimumVersion": "0.8.20"
+    }
+  ],
+  "Keybinds": [
+    {
+      "Syntax": "Ctrl+Shift+F8 (default)",
+      "Description": "Log the current aircraft count once. Requires Input Panel; bindings can be changed in the in-game Input settings."
+    }
+  ],
+  "Commands": [
+    {
+      "Syntax": "<callsign> report mod status",
+      "Description": "Ask the example mod for a pilot radio reply. Alias: report observer status."
+    }
+  ]
+}

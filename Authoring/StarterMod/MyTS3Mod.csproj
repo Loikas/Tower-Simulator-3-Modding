@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Version>0.1.0</Version>
+    <AssemblyName>MyTS3Mod</AssemblyName>
+    <RootNamespace>MyTS3Mod</RootNamespace>
+    <FrameworkApiPath Condition="'$(FrameworkApiPath)' == ''">$(GameDir)\BepInEx\plugins\TS3ModLoader\TS3Modding.API.dll</FrameworkApiPath>
+    <AutomaticallyUseReferenceAssemblyPackages>false</AutomaticallyUseReferenceAssemblyPackages>
+    <FrameworkPathOverride>$(GameDir)\Tower! Simulator 3_Data\Managed</FrameworkPathOverride>
+  </PropertyGroup>
+  <Target Name="CheckReferences" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(FrameworkPathOverride)\UnityEngine.CoreModule.dll')" Text="Pass -p:GameDir=your TS3 installation folder." />
+    <Error Condition="!Exists('$(FrameworkApiPath)')" Text="Install framework 0.8.20 or newer first." />
+  </Target>
+  <Target Name="GenerateModIdentity" BeforeTargets="CoreCompile"
+          Inputs="$(MSBuildProjectFullPath);$(MSBuildProjectDirectory)\mod-project.json;$(MSBuildProjectDirectory)\Generate-Metadata.ps1"
+          Outputs="$(IntermediateOutputPath)ModIdentity.g.cs">
+    <MakeDir Directories="$(IntermediateOutputPath)" />
+    <Exec WorkingDirectory="$(MSBuildProjectDirectory)"
+          Command="powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\Generate-Metadata.ps1&quot; -ProjectFile &quot;$(MSBuildProjectDirectory)\mod-project.json&quot; -OutputFile &quot;$(IntermediateOutputPath)ModIdentity.g.cs&quot; -Namespace &quot;$(RootNamespace)&quot;" />
+  </Target>
+  <ItemGroup>
+    <Compile Include="$(IntermediateOutputPath)ModIdentity.g.cs" />
+    <Reference Include="TS3Modding.API"><HintPath>$(FrameworkApiPath)</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx"><HintPath>$(GameDir)\BepInEx\core\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="netstandard"><HintPath>$(FrameworkPathOverride)\netstandard.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(FrameworkPathOverride)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(FrameworkPathOverride)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>
