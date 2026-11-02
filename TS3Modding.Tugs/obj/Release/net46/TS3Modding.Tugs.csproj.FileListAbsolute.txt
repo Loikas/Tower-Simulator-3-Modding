@@ -1,0 +1,9 @@
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\bin\Release\net46\TS3Modding.Tugs.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\bin\Release\net46\TS3Modding.Tugs.pdb
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.csproj.AssemblyReference.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.AssemblyInfoInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.AssemblyInfo.cs
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.dll
+C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3Modding.Tugs\obj\Release\net46\TS3Modding.Tugs.pdb

@@ -1,0 +1,33 @@
+TS3 Aircraft Effects sound credits — 0.2.0
+
+jet.wav: excerpt of SDL Jet Engine Spool Up by guitarduane.
+https://freesound.org/people/guitarduane/sounds/788132/
+Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+Source is a regional jet spooling up; adapted to a generic steady jet loop.
+
+apu.wav: excerpt of Qantas City Flyer 670 - Preflight Idle.wav by digifishmusic.
+https://freesound.org/people/digifishmusic/sounds/69203/
+Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+Recorded inside a Boeing 737 before engine start. Adapted as quiet parked-aircraft
+ambience; not represented as an accurate exterior recording or per-aircraft APU.
+
+ground.wav: excerpt of Diesel Truck Idling Front.wav by ibirdfilm.
+https://freesound.org/people/ibirdfilm/sounds/128160/
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Adapted as generic ground-vehicle engine ambience; not a specific tug recording.
+
+wind.wav: wind1 by Luke.RUSTLTD.
+https://opengameart.org/content/wind1
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Synthesized wind, authored using PureData. Excerpted and looped.
+
+thunder.wav: peal of thunder - distant by bastipictures.
+https://freesound.org/people/bastipictures/sounds/243782/
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+Field recording of distant thunder and rain.
+
+Preparation for all files: publicly available audio, excerpting, mono mixdown,
+low-pass/resampling to 22050 Hz PCM16, DC removal, peak normalization and
+loop crossfade or short edge fades. Source pages and hashes retained in local
+validation records. No endorsement by the artists is implied.
+Game audio is used only from the user's installation and is not redistributed.
