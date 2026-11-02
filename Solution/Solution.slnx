@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TS3Modding.API/TS3Modding.API.csproj" />
+  <Project Path="../TS3ModLoader/TS3ModLoader.csproj" />
+</Solution>
