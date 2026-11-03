@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.API\\TS3Modding.API.csproj": {
-      "version": "0.8.4",
+      "version": "0.8.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.API\\TS3Modding.API.csproj",
         "projectName": "TS3Modding.API",
@@ -57,7 +57,7 @@
       }
     },
     "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.RejectedTakeoffs\\TS3Modding.RejectedTakeoffs.csproj": {
-      "version": "0.1.0",
+      "version": "0.5.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.RejectedTakeoffs\\TS3Modding.RejectedTakeoffs.csproj",
         "projectName": "TS3Modding.RejectedTakeoffs",

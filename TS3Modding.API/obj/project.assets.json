@@ -12,7 +12,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "0.8.4",
+    "version": "0.8.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.API\\TS3Modding.API.csproj",
       "projectName": "TS3Modding.API",

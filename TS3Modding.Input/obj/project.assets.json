@@ -2,7 +2,7 @@
   "version": 4,
   "targets": {
     "net46": {
-      "TS3Modding.API/0.7.0": {
+      "TS3Modding.API/0.8.0": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.6",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "TS3Modding.API/0.7.0": {
+    "TS3Modding.API/0.8.0": {
       "type": "project",
       "path": "../TS3Modding.API/TS3Modding.API.csproj",
       "msbuildProject": "../TS3Modding.API/TS3Modding.API.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net46": [
-      "TS3Modding.API >= 0.7.0"
+      "TS3Modding.API >= 0.8.0"
     ]
   },
   "packageFolders": {
