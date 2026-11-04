@@ -2,7 +2,7 @@
   "version": 4,
   "targets": {
     "net46": {
-      "TS3Modding.API/0.8.0": {
+      "TS3Modding.API/0.8.4": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.6",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "TS3Modding.API/0.8.0": {
+    "TS3Modding.API/0.8.4": {
       "type": "project",
       "path": "../TS3Modding.API/TS3Modding.API.csproj",
       "msbuildProject": "../TS3Modding.API/TS3Modding.API.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net46": [
-      "TS3Modding.API >= 0.8.0"
+      "TS3Modding.API >= 0.8.4"
     ]
   },
   "packageFolders": {
@@ -31,7 +31,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "0.5.2",
+    "version": "0.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.RejectedTakeoffs\\TS3Modding.RejectedTakeoffs.csproj",
       "projectName": "TS3Modding.RejectedTakeoffs",

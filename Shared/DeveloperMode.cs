@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+
 namespace TS3Modding.Preferences;
 
 internal static class DeveloperMode
@@ -7,7 +8,6 @@ internal static class DeveloperMode
     internal static string FilePath => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "TS3Modding", "preferences", "developer-mode.txt");
     private static long nextRead;
     private static bool cached;
-
     internal static bool Enabled
     {
         get
@@ -43,10 +43,8 @@ internal static class DeveloperMode
     internal static void Write(string path, bool enabled)
     {
         var folder = Path.GetDirectoryName(Path.GetFullPath(path));
-
         if (string.IsNullOrEmpty(folder))
             throw new IOException("Preference directory unavailable.");
-
         Directory.CreateDirectory(folder);
         var temporary = path + "." + Guid.NewGuid().ToString("N") + ".tmp";
         try

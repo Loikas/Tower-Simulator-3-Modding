@@ -12,7 +12,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "0.1.5",
+    "version": "0.1.4",
     "restore": {
       "projectUniqueName": "C:\\Users\\Lucas\\.codex\\.chatgpt-projects\\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\\TS3Modding\\TS3Modding.ExternalAdirs\\TS3Modding.ExternalAdirs.csproj",
       "projectName": "TS3Modding.ExternalAdirs",

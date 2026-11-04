@@ -1,4 +1,13 @@
 <Solution>
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.Camera/TS3Modding.Camera.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.Effects/TS3Modding.Effects.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.ExternalAdirs/TS3Modding.ExternalAdirs.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.ExternalBootstrap/TS3Modding.ExternalBootstrap.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.FlightStrips/TS3Modding.FlightStrips.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.Input/TS3Modding.Input.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.PilotReadiness/TS3Modding.PilotReadiness.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.RejectedTakeoffs/TS3Modding.RejectedTakeoffs.csproj" />
+  <Project Path="../../g-p-6ace5e2f8a908191a0bbfe2a3e16f140/TS3Modding/TS3Modding.Tugs/TS3Modding.Tugs.csproj" />
   <Project Path="../TS3Modding.API/TS3Modding.API.csproj" />
   <Project Path="../TS3ModLoader/TS3ModLoader.csproj" />
 </Solution>

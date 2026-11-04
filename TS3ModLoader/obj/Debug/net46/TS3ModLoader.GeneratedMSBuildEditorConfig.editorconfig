@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = TS3ModLoader
-build_property.ProjectDir = C:\Users\Lucas\.codex\.chatgpt-projects\g-p-6ace5e2f8a908191a0bbfe2a3e16f140\TS3Modding\TS3ModLoader\
+build_property.ProjectDir = C:\Users\Lucas\.codex\.chatgpt-projects\Testing\TS3ModLoader\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
